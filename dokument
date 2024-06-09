@@ -1,3 +1,15 @@
-https://www.youtube.com/watch?v=NEYcKvwbW-w&t=6s
-nanti belajar 
-npm install -g firebase-tools ini dulu
+https://www.youtube.com/watch?v=oI1sz6VkSz4&list=PL7jdfftn7HKtkKhEHbLY_cHkwAyGZehXS
+
+============================================
+
+https://firebase.google.com/docs/flutter/setup?platform=android#available-plugins
+
+https://firebase.flutter.dev/
+
+========================================
+
+1. buat projek di https://console.firebase.google.com/
+2. buat projek flutter
+3. masuk ke https://pub.dev/packages/firebase_core/install
+4. ketik di cli : flutter pub add firebase_core
+5. registrasi app di firebase 
